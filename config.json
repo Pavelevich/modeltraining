@@ -1,0 +1,9 @@
+{
+  "model_type": "llama",
+  "hidden_size": 4096,
+  "num_attention_heads": 32,
+  "num_hidden_layers": 32,
+  "intermediate_size": 11008,
+  "max_position_embeddings": 2048,
+  "vocab_size": 32000
+}
